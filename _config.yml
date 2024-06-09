@@ -3,3 +3,11 @@ logo: /assets/images/Iresha.jpg
 description: Machine Learning & Data Science Enthusiast | Innovator in AI
 show_downloads: true
 theme: jekyll-theme-minimal
+navbar_links:
+  - label: Education
+    url: /pages/education.md
+  - label: Projects
+    url: /pages/projects.md
+  - label: Work Experience
+    url: /pages/work-experience.md
+
