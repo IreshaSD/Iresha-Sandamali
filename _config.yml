@@ -5,11 +5,11 @@ show_downloads: true
 theme: jekyll-theme-minimal
 navbar_links:
   - label: About
-    url: /pages/about.md
+    url: /pages/About.md
   - label: Education
-    url: /pages/education.md
+    url: /pages/Education.md
   - label: Projects
-    url: /pages/projects.md
+    url: /pages/Projects.md
   - label: Work Experience
-    url: /pages/work-experience.md
+    url: /pages/Work-Experience.md
 
