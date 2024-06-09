@@ -4,6 +4,8 @@ description: Machine Learning & Data Science Enthusiast | Innovator in AI
 show_downloads: true
 theme: jekyll-theme-minimal
 navbar_links:
+  - label: About
+    url: /pages/about.md
   - label: Education
     url: /pages/education.md
   - label: Projects
