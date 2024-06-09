@@ -1,4 +1,4 @@
-# Machine Learning Enthusiast | Data Science Professional | AI Innovator
+# Machine Learning & Data Science Enthusiast | Innovator in AI
 
 ## About
 
