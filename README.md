@@ -1,20 +1,20 @@
-## Machine Learning Enthusiast | Data Science Professional | AI Innovator
+# Machine Learning Enthusiast | Data Science Professional | AI Innovator
 
-### About
-
-
-
-
-### Education
+## About
 
 
 
 
-
-### Work Experience 
+## Education
 
 
 
 
 
-### Projects
+## Work Experience 
+
+
+
+
+
+## Projects
