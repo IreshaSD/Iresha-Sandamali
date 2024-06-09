@@ -2,7 +2,7 @@ title: Iresha Sandamali
 logo: /assets/images/Iresha.jpg
 description: Machine Learning & Data Science Enthusiast | Innovator in AI
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 navbar_links:
   - label: About
     url: /pages/About.md
