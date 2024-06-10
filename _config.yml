@@ -1,15 +1,17 @@
 title: Iresha Sandamali 
+title_separator          : "-"
+name                     : &name "Iresha"
 logo: /assets/images/Iresha.jpg
 description: Machine Learning & Data Science Enthusiast | Innovator in AI
 show_downloads: true
 theme: jekyll-theme-minimal
-navbar_links:
-  - label: About
-    url: /pages/About.md
-  - label: Education
-    url: /pages/Education.md
-  - label: Projects
-    url: /pages/Projects.md
-  - label: Work Experience
-    url: /pages/Work-Experience.md
+# navbar_links:
+#   - label: About
+#     url: /pages/About.md
+#   - label: Education
+#     url: /pages/Education.md
+#   - label: Projects
+#     url: /pages/Projects.md
+#   - label: Work Experience
+#     url: /pages/Work-Experience.md
 
