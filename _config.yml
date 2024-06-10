@@ -1,10 +1,13 @@
-title: Iresha Sandamali 
+title: Machine Learning & Data Science Enthusiast | Innovator in AI 
 title_separator          : "-"
-name                     : &name "Iresha"
+name                     :  "Iresha"
 logo: /assets/images/Iresha.jpg
-description: Machine Learning & Data Science Enthusiast | Innovator in AI
+description: Iresha Sandamali
 show_downloads: true
 theme: jekyll-theme-minimal
+url : https://ireshasd.github.io/Iresha-Sandamali/
+
+
 # navbar_links:
 #   - label: About
 #     url: /pages/About.md
