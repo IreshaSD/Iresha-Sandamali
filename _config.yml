@@ -1,13 +1,21 @@
-title: Machine Learning & Data Science Enthusiast | Innovator in AI 
+title: Iresha Sandamali Portfolio     #Machine Learning & Data Science Enthusiast | Innovator in AI 
 title_separator          : "-"
 name                     :  Iresha
-logo: /assets/images/Iresha.jpg
+# logo: /assets/images/Iresha.jpg
 description: Iresha Sandamali
 show_downloads: true
 theme: jekyll-theme-minimal
 url : https://ireshasd.github.io/Iresha-Sandamali/
 
+author:
+  avatar: "/assets/images/Iresha.jpg"
+  name: "Iresha Sandamali"
+  pronouns:  "she/her"
+  bio: "Machine Learning & Data Science Enthusiast | Innovator in AI"
+  github: IreshaSD
+  linkdin: "https://www.linkedin.com/in/iresha-sandamali-55580b160/"
 
+  
 # navbar_links:
 #   - label: About
 #     url: /pages/About.md
